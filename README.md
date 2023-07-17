@@ -1,2 +1,3 @@
 # code-f-second-p
-learnign to use git using a boocamp
+Learning to use git using a Bootcamp
+this is also my first edit
